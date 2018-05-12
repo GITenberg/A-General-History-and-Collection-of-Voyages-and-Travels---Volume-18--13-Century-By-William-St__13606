@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3594
     wikipedia: http://en.wikipedia.org/wiki/Robert_Kerr_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13606#A-General-History-and-Collection-of-Voyages-and-Travels---Volume-18--13-Century-By-William-St_
 gutenberg_issued: '2004-10-05'
 gutenberg_type: Text
 identifiers:
